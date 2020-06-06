@@ -1,0 +1,103 @@
+.kbeo-logo{
+   width: 200px;
+   
+}
+.navbar{
+    background-color: rgb(148, 218, 131);
+    font-weight: bold;
+    color: black !important;
+    margin-bottom: 5px;
+
+}
+.alert{
+    margin-top: 5px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(148, 218, 131);
+}
+.cards, .news{
+    background-color: rgb(75, 75, 75);
+    border-radius: 10px;
+}
+.col, .col-8{
+    margin: 5px !important; 
+}
+.table{
+    font-size: 12px !important;
+    font-weight: bold !important;
+    color: white;
+}
+li{
+    list-style-type: none;
+    
+}
+.news-td{
+    width: 80px;
+    color: blue;
+    color: white;
+}
+.cards{
+
+    justify-content: center;
+}
+.cards-6{
+    justify-content: center;
+    text-align: center;
+}
+.card-1{
+    flex: auto;
+    display: inline-flex; 
+    justify-content: center;
+    text-align: center;
+}
+
+.fa-desktop, .fa-anchor, .fa-book, .fa-edit, .fa-download, .fa-graduation-cap{
+    font-size: 30px !important;
+    text-align: center;
+    margin-top: 2rem;
+}
+.fa-laptop, .fa-virus{
+    font-size: 90px !important;
+    text-align: center;
+    margin-top: 2rem;
+}
+.fa-etsy{
+    font-size: 70px !important;
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+.card-course{
+    height: 22rem;
+}
+.comp-course{
+    text-align: center;
+}
+.fa-windows, .fa-signal, .fa-chart-line, .fa-chart-bar{
+    font-size: 30px !important;
+    text-align: center;
+    margin-top: 2rem;
+    color: grey !important;
+}
+.comp-course{
+
+    width: 12rem !important;
+    
+}
+.footer{
+    background-color: rgb(75, 75, 75);
+    color: white;
+    
+}
+.footer-2{
+    font-size: 14px;
+    background-color: rgb(75, 75, 75);
+    text-align: center;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    justify-content: center;
+    padding: 15px 0px 15px 0;
+    font-weight: bold;
+    color: white;
+    
+}
